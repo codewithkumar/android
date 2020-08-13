@@ -1,5 +1,5 @@
 # TrebleShot libre software file and text sharing app
-Send and receive files over available connections. [FAQ](https://github.com/genonbeta/TrebleShot/blob/master/FAQ.md).
+Send and receive files over available connections. [FAQ](https://github.com/genonbeta/TrebleShot/blob/master/FAQ.md).<br>
 Download the file bhej_de.zip for the latest build or check out the latest release.
 
 ## Get it on
